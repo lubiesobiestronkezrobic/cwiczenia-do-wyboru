@@ -3,7 +3,7 @@ package geometria;
 public abstract class Figura {
     private Punkt srodek;
 
-    public Figura(Punkt srodek) {
+    public Figura(Punkt srodek) {dodan
         this.srodek = srodek;
     }
 
